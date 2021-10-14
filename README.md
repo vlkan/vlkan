@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ankara Chatbot](https://github.com/vlkan/ankara-bert-app)
 
-- 🌱 I’m currently learning **React, Vue and Flutter**
+- 🌱 I’m currently learning **React, Angular and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vlkan](https://github.com/vlkan)
 
