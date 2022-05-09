@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HR Attrition Prediction](https://github.com/vlkan/dsbootcamp2022-hr-attrition-prediction-project)
 
-- 🌱 I’m currently learning **Svelte, Go and Flutter**
+- 🌱 I’m currently learning **Svelte, Vue.js, Go and Flutter**
 
 - 📝 I regularly write articles on [Medium](https://vlkan.medium.com/), [Pardus Community](https://gonullu.pardus.org.tr/author/volkanonder/)
 
