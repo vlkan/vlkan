@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HR Attrition Prediction](https://github.com/vlkan/dsbootcamp2022-hr-attrition-prediction-project)
 
-- 🌱 I’m currently learning **Svelte, Vue.js, Go and Flutter**
+- 🌱 I’m currently learning **Vue.js, Go and Flutter**
 
 - 📝 I regularly write articles on [Medium](https://vlkan.medium.com/), [Pardus Community](https://gonullu.pardus.org.tr/author/volkanonder/)
 
@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/vlkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vlkan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools that I have used in my projects before:</h3>
 <p align="left"> 
 <h4 align="left">Frontend:</h4>
 <p align="left">
