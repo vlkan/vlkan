@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thkvolkanonder@gmail.com**
 
-- 📄 Know about my experiences [Download](https://drive.google.com/file/d/16ODL_IfMMOgbpHSGhlTSCWpLOVI1DIgz/view?usp=sharing)
+- 📄 Know about my experiences [Download](https://drive.google.com/file/d/1WUKPHVNdjrv5RmcRJDK-3UAcINLUV2HL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
